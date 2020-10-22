@@ -1,6 +1,8 @@
 ### Diversity picking algorithm
 
-This code allows is for diversity picking across multiple different, and potentailly overlapping chemcial compound classes, while at te same time optimizing a property score 
+This code allows is for diversity picking across multiple different, and potentailly overlapping chemcial compound classes, while at the same time optimizing a property score 
+More details can be found at:
+Schuffenhauer, A. et al. Evolution of Novartis' small molecule screening deck design, J. Med. Chem. (2020), DOI. https://dx.doi.org/10.1021/acs.jmedchem.0c01332
 
 Selection algorithm
 1.	Initialization:
